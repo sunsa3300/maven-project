@@ -1,2 +1,2 @@
-# maven-project
-This is my first maven project 
+# Maven
+My first repository on github
